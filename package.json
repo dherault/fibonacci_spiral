@@ -1,0 +1,25 @@
+{
+  "name": "fibonacci_spiral",
+  "version": "0.0.0",
+  "description": "A Fibonacci spiral in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dherault/fibonacci_spiral.git"
+  },
+  "author": "David Hérault <dherault@gmail.com> (https://github.com/dherault)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dherault/fibonacci_spiral/issues"
+  },
+  "homepage": "https://github.com/dherault/fibonacci_spiral#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
