@@ -14,7 +14,7 @@ function drawSquareAndQuarterCircle(size) {
   _.stroke()
 }
 
-let size = 10
+let size = 1
 let previousSize = size
 
 _.lineWidth = 2
@@ -23,7 +23,7 @@ _.strokeStyle = 'black'
 _.translate(width / 2, height / 2)
 // _.rotate(-Math.PI / 2)
 
-for (let i = 0; i < 15; i++) {
+for (let i = 0; i < 20; i++) {
   drawSquareAndQuarterCircle(size)
 
   const tempSize = previousSize
